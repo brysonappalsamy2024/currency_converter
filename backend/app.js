@@ -25,7 +25,7 @@ app.use(cors(corsOptions));
 //! Conversion
 app.post("/api/convert", async (req, res) => {
   try {
-    // get the user data
+    // get the user datas
     const { from, to, amount } = req.body;
     console.log({ from, to, amount });
     //Construct the api

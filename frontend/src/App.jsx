@@ -23,7 +23,7 @@ function App() {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    //Http Request
+    //Http Requests
     try {
       const response = await axios.post(
         "http://localhost:5000/api/convert",

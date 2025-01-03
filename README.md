@@ -13,5 +13,5 @@ The project description can be found in the [Google Slide](https://docs.google.c
 
 
 ## Preview
-![alt text](https://user-images.githubusercontent.com/68517660/177348931-9d15bac7-14bb-4cdb-838a-26455f18d3fc.jpg)
+![alt text](https://www.loom.com/share/b2ccdc67f7a94bfc91e144677733f08d?sid=9b9299f4-66d9-409c-af92-62dbc541ce08)
 
